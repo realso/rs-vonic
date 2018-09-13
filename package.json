@@ -1,6 +1,6 @@
 {
   "name": "rs-vonic",
-  "version": "1.0.0-rc.1",
+  "version": "1.0.0-rc.2",
   "main": "dist/vonic.min.js",
   "description": "Mobile UI Components, based on Vue.js and ionic CSS.",
   "keywords": [
@@ -30,7 +30,7 @@
     "shelljs": "^0.8.2",
     "vswipe": "1.0.0",
     "vue": "^2.1.8",
-    "vue-router": "^2.1.0",
+    "vue-router": "^3.0.1",
     "vue-scroller": "2.2.0-alpha.3"
   },
   "devDependencies": {
